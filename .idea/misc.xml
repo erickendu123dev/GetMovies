@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/drawable/backgroundrecylerhomr2.xml" value="0.403125" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/drawable/ic_baseline_live_tv_24.xml" value="0.403125" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.403125" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/layout/activity_detail_movie.xml" value="0.25" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/layout/activity_detail_movies.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/layout/activity_search.xml" value="0.33" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/layout/item_horizontal_recylerview_home.xml" value="0.5" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/layout/item_searchactivity.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/layout/shimmer_placeholder_layout.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/layout/shimmer_search_layout.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/layout/splash_screen.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ricop/AndroidStudioProjects/GetMovies/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.23541666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
